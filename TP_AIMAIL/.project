@@ -3,6 +3,7 @@
 	<name>TP_AIMAIL</name>
 	<comment></comment>
 	<projects>
+		<project>TP_AIMAIL_WEB</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
